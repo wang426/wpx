@@ -32,11 +32,30 @@ Vivado2018.3<br>
 
 仓库目录介绍<br>
 --------
-##ExecutableFiles<br>
+ExecutableFiles<br>
     bit流文件<br>
-##Color recognize<br>
+       <br>
+Color recognize<br>
     实现彩灯识别和点亮的整个工程<br>
-##Sourcecode<br>
+    <br>
+Sourcecode<br>
     所有源代码<br>
+    Camera_Demo.v<br>
+    Driver_Bayer_To_RGB.v<br>
+    Driver_Csi_To_Dvp.v<br>
+    Driver_IIC.v<br>
+    Driver_MIPI.v<br>
+    Driver_SK6805.v<br>
+    OV5647_Init.v<br>
+    RGB.v<br>
+    TEST.v<br>
+    Trigger_Generator.v<br>
+    <br>
+Images<br>
+    所有图片以及影像资料<br>
+    
+    
+    
+    
     
   
